@@ -1,5 +1,5 @@
 # rpiC12R
-Raspberry Pi version of the Cacophonometer (c12r) birdsong recorder from The Cacophony Project
+A Raspberry Pi implementation of the Cacophonometer (C12R) birdsong recorder from The Cacophony Project
 
 [The Cacophonometer](https://cacophony.org.nz/technology) is an open-source [Android application](https://github.com/TheCacophonyProject/cacophonometer) which wakes up at regular intervals, records audio and then uploads it to the Cacophony Project API server for analysis. Among other things, the recordings can be used to make estimates of bird population health.
 
